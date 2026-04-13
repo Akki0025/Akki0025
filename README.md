@@ -1,13 +1,13 @@
 <div align="center">
 
-[![Aniket Kumar](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e1b4b,100:312e81&height=210&section=header&text=Aniket%20Kumar&fontSize=56&fontColor=f1f5f9&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%7C%20CS%20Undergraduate%20%7C%20Bennett%20University&descSize=17&descAlignY=58&descColor=a5b4fc)](https://github.com/Akki0025)
+[![Hey, I'm Akki!](assets/wallpaper%201920x1080.gif)](https://github.com/Akki0025)
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:akki620182@gmail.com?subject=Hello%20Aniket,%20From%20Github) &nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Akki0025)
 
 </div>
 
-- Currently a CSE undergraduate at **Bennett University**, graduating May 2026.
+- Hey, I'm **Akki** — a CSE undergraduate at **Bennett University**, graduating May 2026.
 - Passionate about frontend development — React.js, clean UI architecture, and accessible design.
 - Striving to grow through real-world projects and meaningful open source contributions.
 - Reach me at [akki620182@gmail.com](mailto:akki620182@gmail.com) — always happy to connect.
