@@ -38,6 +38,23 @@
 
 ## My Stats
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://pixel-profile.vercel.app/api/github-stats?username=Akki0025&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=fuji&color=%23ffffffFF"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://pixel-profile.vercel.app/api/github-stats?username=Akki0025&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=fuji&color=%23ffffffFF"
+  />
+  <img
+    alt="Akki's Pixel GitHub Stats"
+    src="https://pixel-profile.vercel.app/api/github-stats?username=Akki0025&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=fuji&color=%23ffffffFF"
+  />
+</picture>
+
+<br/>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akki0025&show_icons=true&hide_border=true&count_private=true&theme=radical&icon_color=fad000)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akki0025&count_private=true&theme=radical)
