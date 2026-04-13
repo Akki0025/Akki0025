@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hey, I'm Akki!](assets/wallpaper%201920x1080.gif)](https://github.com/Akki0025)
+[![Hey, I'm Akki!](assets/image.gif)](https://github.com/Akki0025)
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:akki620182@gmail.com?subject=Hello%20Aniket,%20From%20Github) &nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Akki0025)
